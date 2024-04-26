@@ -1,0 +1,83 @@
+body { 
+    background-color: hsl(348, 46%, 67%);
+    font-family: cursive;
+    color: hwb(340 2% 81%)
+}
+.photo {
+    background: url(../image/photo.jpg) no-repeat center center;
+    background-size: 100%;
+    width: 400px;
+    height: 400px;
+    
+}
+
+.p1 {
+    background: url(../image/photo2.jpg) no-repeat center center;
+    background-size: 100%;
+    width: 100px;
+    height: 100px;
+    
+}
+
+.nav_bar {
+    font-size: 30px;
+    font-weight: bold;
+}
+.container {
+    margin-top: 30px;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+}
+.row {
+}
+.col-8 {
+}
+.col-4 {
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+}
+.col-3.nav_logo {
+}
+.col-9 {
+}
+.nav_text {
+    display: flex;
+    align-items: center;
+    justify-content: right;
+}
+.img_size {
+}
+.title_photo {
+    
+}
+.button_js {
+    text-align: center;
+}
+#myButton {
+    border: none;
+    border-radius: 15px;
+    width: 150px;
+    height: 50px;
+    background-color: rgb(119, 18, 111);
+    color: bisque;
+    font-weight: bold;
+}
+#demo img {
+    margin-top: 20px;
+    width: 25%;
+}
+.containerP {
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+}
+.containerM {
+    align-items: center;
+    text-align: center;
+    justify-content: right;
+    display: flex;
+
+ flex: 0 0 33.3%
+}
